@@ -67,3 +67,9 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 **Server:** JsonPowerDB
 
+Screenshots:
+
+<img width="1440" alt="Screenshot 2024-07-12 at 8 25 07 PM" src="https://github.com/user-attachments/assets/5bb7f990-e9cb-4464-9c47-defd89f2ae9e">
+
+<img width="1440" alt="Screenshot 2024-07-12 at 8 26 12 PM" src="https://github.com/user-attachments/assets/f81204fc-3b47-4e98-ad44-4adf1a615686">
+
